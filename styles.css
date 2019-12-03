@@ -1,0 +1,145 @@
+
+body {
+  color:#2b2b28;
+  margin: 0px;
+  text-align: center;
+  font-family:'Merriweather', serif;
+
+}
+
+h1 {
+  color: #f1d6ab;
+  font-size: 90px;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento',cursive;
+}
+
+h2 {
+  color:#2b2b28;
+  font-family:'Montserrat' sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #f1d6ab;
+  font-family:'Montserrat' sans-serif;
+}
+
+hr {
+  border: dotted #f1d6ab 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto;
+}
+
+a {
+  color: #484c7f;
+  font-family:'Montserrat' sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #fa5477;
+}
+
+img {
+  position: relative;
+  left: 100px;
+  height: 100px;
+  width: 80px;
+  right: 50px;
+  }
+
+
+
+.top-container {
+  background-color: #f4efd3;
+  position: relative;
+  padding-top: 0px;
+}
+
+.middle-container {
+  background-color: #f09595;
+
+}
+
+
+.bottom-container {
+background-color: #e3b04b;
+}
+
+.skills-row {
+
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  text-decoration: 2;
+}
+.BeeK {
+
+  position: static;
+}
+
+
+.honey {
+  position: static;
+  width: 40%;
+  height: 25%;
+  margin-right: 30px;
+}
+
+.oops {
+  position: static;
+  width: 40%;
+  height: 25%;
+  margin-right: 30px;
+}
+
+.Bee {
+  position: static;
+  width: 40%;
+  height: 25%;
+  margin-right: 30px;
+}
+
+.contact-message {
+width:  40%;
+margin: 40px auto 60px;
+}
+
+.copyright {
+  color:#543864;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.btn {
+
+  background: #E3B04B;
+  background-image:-webkit-linear-gradient(top,  #E3B04B,  #CFB787);
+  background-image: -ms-linear-gradient(top,  #E3B04B,  #CFB787);
+  background-image: -moz-linear-gradient(top,#E3B04B,  #CFB787);
+  background: -o-linear-gradient(top,  #E3B04B,  #CFB787);
+  background-image: linear-gradient(to bottom,#E3B04B,  #CFB787));
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+    font-family:'Montserrat' sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #E38AB1;
+  background-image: -webkit-linear-gradient(top,#E38AB1,#e78fb3);
+  background-image: -moz-linear-gradient(top,#E38AB1,#e78fb3);
+  background-image: -ms-linear-gradient(top,#E38AB1,#e78fb3);
+  background-image: -o-linear-gradient(top,  #E38AB1,#e78fb3);
+  background-image: linear-gradient(to bottom,#E38AB1,#e78fb3);
+  text-decoration: none;
+}
